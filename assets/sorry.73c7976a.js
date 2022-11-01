@@ -1,0 +1,1 @@
+import{_ as e,o,a as _,p as t,b as a,d as c}from"./index.bdf956ee.js";const d={},r=s=>(t("data-v-c2d84091"),s=s(),a(),s),n={class:"container"},p=r(()=>c("div",{class:"sorry"},[c("div",{class:"pic"})],-1)),i=[p];function l(s,v){return o(),_("div",n,i)}const f=e(d,[["render",l],["__scopeId","data-v-c2d84091"]]);export{f as s};
